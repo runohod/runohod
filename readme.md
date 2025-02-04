@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик.</p>
+<p align="left">Я Frontend разработчик.</p>
 
 ###
 
