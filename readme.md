@@ -31,7 +31,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://avatars.mds.yandex.net/i?id=65f8f63b0ea5bebd48f0c54e3a0b57b334b13cce-16424221-images-thumbs&n=13)" height="40" alt="vite logo"  />
-  <img width="12" />
 </div>
 
