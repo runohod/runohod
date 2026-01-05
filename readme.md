@@ -30,6 +30,7 @@
 ###
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=runohod&theme=react" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runohod&theme=react" />
 </p>
