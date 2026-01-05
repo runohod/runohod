@@ -28,6 +28,6 @@
 </div>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook" />
-  <img src="https://github-readme-stats.vercel.app/api?username=runohod&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=runohod&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
