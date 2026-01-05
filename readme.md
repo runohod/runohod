@@ -27,3 +27,9 @@
   <img width="12" />
 </div>
 
+###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=runohod&show_icons=true&theme=react)
