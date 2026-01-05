@@ -27,9 +27,7 @@
   <img width="12" />
 </div>
 
-###
-(https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook)
-###
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&theme=tokyonight&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
-(https://github-readme-stats.vercel.app/api?username=runohod&show_icons=true&theme=react)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=runohod&layout=compact&theme=react&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api?username=runohod&show_icons=true&theme=react" />
+</p>
