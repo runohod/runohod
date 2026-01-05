@@ -30,7 +30,5 @@
 ###
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/runohod?template=classic&base=0&languages=1&languages.sections=most-used&theme=react" height="165" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runohod&theme=react" height="165" />
 </p>
