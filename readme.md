@@ -26,10 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
 </div>
 
 ###
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runohod&theme=react" height="165" />
+  <img src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runohod&theme=react](https://yandex.ru/images/search?pos=14&from=tabbar&img_url=https%3A%2F%2Fbelievemy.com%2Fuploads%2F9db51ba5bc24862758e22f8452c696bc_6a7b871faf79747e8fdd951b9bcac720.png&text=TAILWIND&rpt=simage&lr=20044)" height="165" />
 </p>
